@@ -44,12 +44,6 @@ Clone the repository:
 git clone https://github.com/<username>/image-classification.git
 ```
 
-Install dependencies:
-
-```
-pip install -r requirements.txt 
-```
-
 ## Training <a name="training"></a>
 
 To train a model, run `finetune_classification.py` with the following arguments:
