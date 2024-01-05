@@ -62,19 +62,19 @@ Example:
 ```
 python finetune_classification.py --data_dir data/flowers --model_name efficientnet_b0 --epochs 5 --output_dir training_output
 ```
-###Models
+### Models
 The following TensorFlow Hub models are supported:
 
-efficientnetv2-s
-efficientnetv2-m
-efficientnetv2-l
-efficientnetv2-s-21k
-efficientnetv2-m-21k
-efficientnetv2-l-21k
-efficientnetv2-xl-21k
-efficientnetv2-b0-21k
-efficientnetv2-b1-21k
-efficientnetv2-b2-21k
+- efficientnetv2-s
+- efficientnetv2-m
+- efficientnetv2-l
+- efficientnetv2-s-21k
+- efficientnetv2-m-21k
+- efficientnetv2-l-21k
+- efficientnetv2-xl-21k
+- efficientnetv2-b0-21k
+- efficientnetv2-b1-21k
+- efficientnetv2-b2-21k
 efficientnetv2-b3-21k
 efficientnetv2-s-21k-ft1k
 efficientnetv2-m-21k-ft1k
