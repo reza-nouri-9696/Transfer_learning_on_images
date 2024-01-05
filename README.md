@@ -38,7 +38,7 @@ It is recommended to use a [virtualenv](https://docs.python.org/3/library/venv.h
 Clone the repository:
 
 ```
-git clone https://github.com/<username>/image-classification.git
+git clone https://github.com/reza-nouri-9696/Transfer_learning_on_images.git
 ```
 
 ## Training <a name="training"></a>
