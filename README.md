@@ -1,6 +1,3 @@
-# Transfer_learning_on_images
-Here is a README.md for your image classification code and config:
-
 # Image Classification with TensorFlow Hub
 
 This project finetunes a TensorFlow Hub image classification model on a custom dataset.
