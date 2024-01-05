@@ -123,7 +123,7 @@ A list of supported TF Hub models is defined in `config.py`. This includes Effic
 
 To use a different model, add it to the `model_handle_map` and `model_image_size_map` dictionaries in `config.py`.
 ### dataset
-in this project,IHUMDB dataset is used, for recivieng that you can emailed for me: rezanouri9696@gmail.com
+in this project,IHUMDB dataset is used, for recivieng that you can emaile to me: rezanouri9696@gmail.com
 ## Contributing <a name="contributing"></a> 
 
 Contributions are welcome! Please open an issue or PR if you would like to add new features or bug fixes.
